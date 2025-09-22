@@ -1,3 +1,8 @@
+## Comment by Catalin Moldova
+
+> This article gave me a clear understanding of Agile benefits and challenges for engineering leaders. It presents a balanced view that goes beyond hype to highlight real-world tradeoffs.
+
+— Catalin Moldova
 ## Git Practice Zuhair Khalid zk2284
 [Agile Methodology: Benefits And Challenges For Engineering Leaders](https://www.forbes.com/councils/forbestechcouncil/2023/07/19/agile-methodology-benefits-and-challenges-for-engineering-leaders/)
 
