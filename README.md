@@ -3,6 +3,12 @@
 > This article gave me a clear understanding of Agile benefits and challenges for engineering leaders. It presents a balanced view that goes beyond hype to highlight real-world tradeoffs.
 
 — Catalin Moldova
+
+## Comment by Alexander Escobar
+
+>I found the Forbes article on Agile methodology insightful because it highlights how flexibility and team empowerment can accelerate innovation. At the same time, I appreciated the reminder that without clear structure, Agile can easily create confusion and slow progress.
+- Author Alexander Escobar
+
 ## Git Practice Zuhair Khalid zk2284
 [Agile Methodology: Benefits And Challenges For Engineering Leaders](https://www.forbes.com/councils/forbestechcouncil/2023/07/19/agile-methodology-benefits-and-challenges-for-engineering-leaders/)
 
